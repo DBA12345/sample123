@@ -1,2 +1,6 @@
 thi sis kumar
 saikumar is the latest dump 
+
+git status 
+git add
+git commit -a -m "modifiled code"
